@@ -1,4 +1,4 @@
-# cocd7495e9d129c4fae9d5840
+# Scrimba JS Project
 
 Quick start:
 

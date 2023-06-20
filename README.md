@@ -1,5 +1,7 @@
 # Scrimba JS Project
 
+Hosted here: https://pickle-counter.netlify.app/
+
 Quick start:
 
 ```
